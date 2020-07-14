@@ -2,6 +2,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'application'
 
+group = 'com.utm'
 mainClassName = 'com.utm.Main'
 
 repositories{
