@@ -1,0 +1,1 @@
+1) Edit UML class diagram for factory method!!!
