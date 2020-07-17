@@ -1,0 +1,12 @@
+[{
+  "title": "Orange",
+  "description": "Exotic fruit",
+  "price": 44,
+  "totalCountInStorage": 20
+},
+{
+  "title": "Apple",
+  "description": "Red apple",
+  "price": 12,
+  "totalCountInStorage": 45
+}]
