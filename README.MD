@@ -1,6 +1,12 @@
-# Learn java
+# Java fundamentals
 
 ## 1) Dessign patterns
+
+#### Creational ( Singleton ) :
+
+Singleton - гарантирует, что в приложении будет единственный экземпляр некоторого класса, и предоставляющий глобальную точку доступа к этому экземпляру.
+
+  ![](./docs/diagrams/singleton-b.png)
 
 #### Creational ( Prototype ) :
 
